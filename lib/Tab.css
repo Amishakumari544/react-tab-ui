@@ -1,0 +1,41 @@
+body{
+  font-family: 'Roboto', sans-serif;
+}
+.tabs {
+  margin-right:15px;
+  padding:5px;
+  text-align:center;
+  cursor: pointer;
+  margin-top:5px;
+}
+.tab{
+  text-align: center;
+  padding:5px;
+  box-shadow:2px 0px 7px 1px #e6e6e6;
+  border-radius: 1px;
+  margin: auto;
+  width: 76%;
+}
+.header{
+  background:#4034a5;
+  text-align:center;
+  color:#fff;
+  padding:5px;
+  margin-bottom:10px;
+}
+.github-btn{
+  border-radius: 3px;
+  background:tranparent;
+  text-transform:uppercase;
+  border:none;
+  outline:none;
+  padding:15px;
+  cursor:pointer;
+}
+.footer{
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align:center;
+}
