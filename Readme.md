@@ -1,6 +1,8 @@
 ## Description
 
 A tab component for react.🎉
+![react-tabs](https://user-images.githubusercontent.com/49230384/147813827-3846dbc8-9085-4606-9444-9bfe9a904edb.png)
+
 
 ## Installation
 
