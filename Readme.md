@@ -1,6 +1,6 @@
 ## Description
 
-A tab component for react.
+A tab component for react.🎉
 
 ## Installation
 
@@ -45,7 +45,7 @@ You may also see any lint errors in the console.
 Any support is welcome. You can give the project a star, if you liked it ⭐
 
 ## Contribute
-Feel free to contribute.
+Feel free to contribute and bind bugs as I am new to npm package manager.🎉
 
 ## License
 MIT
